@@ -1,5 +1,5 @@
-# SecureimageTest
-Trying the phpcaptcha from phpcaptcha.org named Secureimage
+# secureimage_test
+Trying the phpcaptcha from phpcaptcha.org named secureimage
 
 
 #config
